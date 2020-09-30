@@ -266,7 +266,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 track Exp3_72h_UL87HF_Flavo_RV
-parent Exp2_72h_UL87HF_Flavo
+parent Exp3_72h_UL87HF_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
