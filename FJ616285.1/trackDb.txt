@@ -350,3 +350,39 @@ autoScale on
 maxHeightPixels 128:128:16
 
 
+track PRO-Seq-Flavo-96h-Towne
+compositeTrack on 
+type bigWig 0 1000
+group proseq-procap
+priority 5.1
+visibility full
+shortLabel PRO-Seq Flavo 96h Towne
+longLabel PRO-Seq in flavopiridol-treated HFF infected 96 hours with HCMV strain Towne
+
+track PRO-Seq-Flavo-96h-Towne-FW
+parent PRO-Seq-Flavo-96h-Towne on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/FJ616285.1/proseq-procap/PRO-Seq-Flavo-96h-Towne-FW.bw
+longLabel FW strand PRO-Seq in flavopiridol-treated HFF infected 96 hours with HCMV strain Towne
+shortLabel FW PRO-Seq Flavo 96h Towne
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track PRO-Seq-Flavo-96h-Towne-RV
+parent PRO-Seq-Flavo-96h-Towne on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/FJ616285.1/proseq-procap/PRO-Seq-Flavo-96h-Towne-RV.bw
+longLabel RV strand PRO-Seq in flavopiridol-treated HFF infected 96 days with HCMV strain Towne
+shortLabel RV PRO-Seq Flavo 96h Towne
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
