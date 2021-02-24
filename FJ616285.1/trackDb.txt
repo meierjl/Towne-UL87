@@ -535,7 +535,7 @@ track Exp1-96h-UL87HF-Flavo-6h-PFA-FW
 parent Exp1-96h-UL87HF-Flavo-6h-PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-2h-dTAG-6h-PFA-FW.bw
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-6h-PFA-FW.bw
 longLabel Exp1 96h UL87HF Flavo 6h PFA FW
 shortLabel Exp1 96h UL87HF Flavo 6h PFA FW
 negateValues off
@@ -549,7 +549,7 @@ track Exp1-96h-UL87HF-Flavo-6h-PFA-RV
 parent Exp1-96h-UL87HF-Flavo-6h-PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-2h-dTAG-6h-PFA-RV.bw
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-6h-PFA-RV.bw
 longLabel Exp1 96h UL87HF Flavo 6h PFA RV
 shortLabel Exp1 96h UL87HF Flavo 6h PFA RV
 negateValues on
