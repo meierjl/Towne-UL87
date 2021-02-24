@@ -61,8 +61,8 @@ parent Exp1_96h_UL87HF_Flavo_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
-longLabel Exp1 96h UL87HF Flavo dTAG FW
-shortLabel Exp1 96h UL87HF Flavo dTAG FW
+longLabel Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel Exp1 96h UL87HF Flavo 6h dTAG 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -75,8 +75,8 @@ parent Exp1_96h_UL87HF_Flavo_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
-longLabel Exp1 96h UL87HF Flavo dTAG RV
-shortLabel Exp1 96h UL87HF Flavo dTAG RV
+longLabel Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel Exp1 96h UL87HF Flavo 6h dTAG 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -139,8 +139,8 @@ parent Exp2_72h_UL87HF_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_dTAG-dedup-FJ616285.1-FW.bw
-longLabel Exp2 72h UL87HF dTAG 
-shortLabel Exp2 72h UL87HF dTAG 
+longLabel Exp2 72h UL87HF 6h dTAG 
+shortLabel Exp2 72h UL87HF 6h dTAG 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -153,8 +153,8 @@ parent Exp2_72h_UL87HF_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_dTAG-dedup-FJ616285.1-RV.bw
-longLabel Exp2 72h UL87HF dTAG 
-shortLabel Exp2 72h UL87HF dTAG 
+longLabel Exp2 72h UL87HF 6h dTAG 
+shortLabel Exp2 72h UL87HF 6h dTAG 
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -217,8 +217,8 @@ parent Exp2_72h_UL87HF_Flavo_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
-longLabel Exp2 72h UL87HF Flavo dTAG 
-shortLabel Exp2 72h UL87HF Flavo dTAG 
+longLabel Exp2 72h UL87HF Flavo 6h dTAG 
+shortLabel Exp2 72h UL87HF Flavo 6h dTAG 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -231,8 +231,8 @@ parent Exp2_72h_UL87HF_Flavo_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
-longLabel Exp2 72h UL87HF Flavo dTAG 
-shortLabel Exp2 72h UL87HF Flavo dTAG 
+longLabel Exp2 72h UL87HF Flavo 6h dTAG 
+shortLabel Exp2 72h UL87HF Flavo 6h dTAG 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -295,8 +295,8 @@ parent Exp3_72h_UL87HF_PFA_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-FW.bw
-longLabel Exp3 72h UL87HF PFA Flavo 
-shortLabel Exp3 72h UL87HF PFA Flavo 
+longLabel Exp3 72h UL87HF Flavo 72h PFA
+shortLabel Exp3 72h UL87HF Flavo 72h PFA
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -309,8 +309,8 @@ parent Exp3_72h_UL87HF_PFA_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-RV.bw
-longLabel Exp3 72h UL87HF PFA Flavo 
-shortLabel Exp3 72h UL87HF PFA Flavo 
+longLabel Exp3 72h UL87HF Flavo 72h PFA
+shortLabel Exp3 72h UL87HF Flavo 72h PFA
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -363,8 +363,8 @@ parent 5-PRO-Cap-Flavo-96h-Towne on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/FJ616285.1/proseq-procap/5-PRO-Cap-Flavo-96h-Towne-FW.bw
-longLabel 5' PRO-Cap Flavo 96h FW
-shortLabel 5' PRO-Cap Flavo 96h FW
+longLabel 5' PRO-Cap Flavo 96h
+shortLabel 5' PRO-Cap Flavo 96h 
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -377,8 +377,8 @@ parent 5-PRO-Cap-Flavo-96h-Towne on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/FJ616285.1/proseq-procap/5-PRO-Cap-Flavo-96h-Towne-RV.bw
-longLabel 5' PRO-Cap Flavo 96h RV
-shortLabel 5' PRO-Cap Flavo 96h RV
+longLabel 5' PRO-Cap Flavo 96h 
+shortLabel 5' PRO-Cap Flavo 96h 
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -401,8 +401,8 @@ parent UL87-No-dTAG-Flavo-Exp2-5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dedup-FJ616285.1-FW-5.bw
-longLabel 5' Exp1 96h UL87HF Flavo FW
-shortLabel 5' Exp1 96h UL87HF Flavo FW
+longLabel 5' Exp1 96h UL87HF Flavo
+shortLabel 5' Exp1 96h UL87HF Flavo 
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -415,8 +415,8 @@ parent UL87-No-dTAG-Flavo-Exp2-5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dedup-FJ616285.1-RV-5.bw
-longLabel 5' Exp1 96h UL87HF Flavo RV
-shortLabel 5' Exp1 96h UL87HF Flavo RV
+longLabel 5' Exp1 96h UL87HF Flavo 
+shortLabel 5' Exp1 96h UL87HF Flavo 
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -439,8 +439,8 @@ parent UL87F-6h-dTag-Flavo-Exp2-5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dTAG-dedup-FJ616285.1-FW-5.bw
-longLabel 5' Exp1 96h UL87HF Flavo dTAG FW
-shortLabel 5' Exp1 96h UL87HF Flavo dTAG FW
+longLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -453,8 +453,8 @@ parent UL87F-6h-dTag-Flavo-Exp2-5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dTAG-dedup-FJ616285.1-RV-5.bw
-longLabel 5' Exp1 96h UL87HF Flavo dTAG RV
-shortLabel 5' Exp1 96h UL87HF Flavo dTAG RV
+longLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
 negateValues on
 color 34,34,255
 altColor 34,34,255
