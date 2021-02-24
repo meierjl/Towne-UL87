@@ -61,8 +61,8 @@ parent Exp1_96h_UL87HF_Flavo_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
-longLabel Exp1 96h UL87HF Flavo dTAG 
-shortLabel Exp1 96h UL87HF Flavo dTAG 
+longLabel Exp1 96h UL87HF Flavo dTAG FW
+shortLabel Exp1 96h UL87HF Flavo dTAG FW
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -75,8 +75,8 @@ parent Exp1_96h_UL87HF_Flavo_dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
-longLabel Exp1 96h UL87HF Flavo dTAG 
-shortLabel Exp1 96h UL87HF Flavo dTAG 
+longLabel Exp1 96h UL87HF Flavo dTAG RV
+shortLabel Exp1 96h UL87HF Flavo dTAG RV
 negateValues on
 color 153,58,29
 altColor 153,58,29
