@@ -334,6 +334,20 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
+track UL87H_HA_ChIP_100-200bp_FragCenters
+parent UL87H_HA_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/2020-05-22-UL87-HA-ChIP-dedup-FJ616285.1.100-200bp.centered.bw
+longLabel UL87H HA ChIP 100-200bp FragCenters
+shortLabel UL87H HA ChIP 100-200bp FragCenters
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
 #############
 
 track UL87H_Pol_II_ChIP
