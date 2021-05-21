@@ -326,8 +326,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel UL87H_HA
-longLabel UL87H_HA 
+shortLabel UL87H HA
+longLabel UL87H HA 
 
 track UL87H_HA_ChIP
 parent UL87H_HA
