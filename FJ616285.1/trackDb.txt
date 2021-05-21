@@ -409,7 +409,6 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-
 track UL87-No-dTAG-Flavo-Exp2-5
 compositeTrack on 
 type bigWig 0 1000
@@ -485,23 +484,6 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##########
 
 track Exp1-96h-UL87HF-Flavo-2h-dTAG
@@ -541,8 +523,6 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-
-
 ##########
 
 track Exp1-96h-UL87HF-Flavo-6h-PFA
@@ -581,8 +561,6 @@ altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
-
 
 ###############################################################
 
