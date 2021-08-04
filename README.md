@@ -24,8 +24,5 @@ Please visit the following site for documentation: https://genome.ucsc.edu/golde
 This track hub contains PRO-Seq and ChIP-Seq first described in the following manuscript:
 
 Cytomegalovirus late transcription factor target sequence diversity orchestrates viral early to late transcription. Ming Li, Qiaolin Hu, Geoffrey Collins, Mrutyunjaya Parida, 
-
-Christopher B. Ball, David H. Price and Jeffery L. Meier. PLoS Pathog. 2021 Aug 2;17(8):e1009796. PMID: 34339482
-
-DOI: [10.1371/journal.ppat.1009796](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009796)
+Christopher B. Ball, David H. Price and Jeffery L. Meier. PLoS Pathog. 2021 Aug 2;17(8):e1009796. PMID: 34339482 DOI: [10.1371/journal.ppat.1009796](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009796)
 
